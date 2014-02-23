@@ -32,6 +32,12 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+
+# ALL NEW GEMS BELOW HERE
+
+gem 'httparty'
+gem 'nokogiri'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
